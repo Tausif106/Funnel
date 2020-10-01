@@ -19,7 +19,7 @@ with that aspect.
 Reference site: https://shuhaowu.com
 Reference site source: https://github.com/shuhaowu/shuhaowu.github.com/tree/master
 
-Features
+Amazing Features
 --------
 
 The most prominent feature of Funnel is the fact that it has almost no
